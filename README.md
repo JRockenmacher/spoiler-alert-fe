@@ -13,5 +13,5 @@ Project members include:
 and myself!  
 
 
-Take a look![demo](https://s19.postimg.cc/ui4fu09ib/parkour-wod-app-demo-shot.png)
+Take a look![demo](https://s19.postimg.cc/s0somr51f/spoiler-alert-demo-img.png)
 
