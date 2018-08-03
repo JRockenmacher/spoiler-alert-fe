@@ -7,7 +7,7 @@ Spoiler Alert helps track food items in your pantry, where you set a life-time f
 Project members include:
 
 [Tim](https://github.com/yhtomitim) . 
-[Garth]() . 
+[Garth](https://github.com/GarthStevens5) . 
 [Kaitlyn](https://github.com/kaitlinramirez) . 
 [Keith](https://github.com/joneskc) . 
 and myself!  
