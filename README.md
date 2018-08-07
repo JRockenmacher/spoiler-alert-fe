@@ -15,3 +15,12 @@ and myself!
 
 Take a look![demo](https://s19.postimg.cc/s0somr51f/spoiler-alert-demo-img.png)
 
+Built in Vue, fork and clone then:
+```
+npm install
+```
+then 
+``` 
+npm run dev
+```
+(older Vue version)
